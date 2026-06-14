@@ -1,0 +1,848 @@
+{
+ "r01": {
+  "scenes": [
+   {
+    "n": 1,
+    "narration": "A Caixa tem milhares de imóveis em leilão, atualizados toda semana. <break time=\"0.35s\"/> Achar nunca foi o problema. <break time=\"0.35s\"/> Difícil é filtrar o joio do trigo. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "a lista que poucos sabem ler",
+     "lines": [
+      "Milhares de imóveis.",
+      "O problema é filtrar."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 2,
+    "narration": "Está tudo no site oficial: cidade, faixa de preço, tipo de imóvel. <break time=\"0.35s\"/> De graça. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "onde fica",
+     "lines": [
+      "Tudo no site oficial.",
+      "Filtra por cidade e preço."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 3,
+    "narration": "Mas a lista crua engana. <break time=\"0.35s\"/> Tem imóvel ocupado, tem dívida que não compensa assumir, e tem até imóvel que já nem existe mais. <break time=\"0.35s\"/> Eu já vi isso numa pesquisa. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "A lista crua engana.",
+      "Tem até imóvel que nem existe."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 4,
+    "narration": "O meu filtro leva vinte minutos: edital, matrícula, e liquidez da região. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "meu filtro de 20 minutos",
+     "lines": [
+      "Edital",
+      "Matrícula",
+      "Liquidez da região"
+     ],
+     "style": "list"
+    }
+   },
+   {
+    "n": 5,
+    "narration": "Olhar esses três é o mínimo pra separar número bonito de oportunidade de verdade. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Sem isso, é só número.",
+      "Com isso, começa a oportunidade."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 6,
+    "narration": "E pra decidir se o achado vale mesmo, eu criei um simulador gratuito. <break time=\"0.35s\"/> Comenta OPORTUNIDADE que eu te mando o link. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Comenta OPORTUNIDADE",
+      "que eu te mando o link."
+     ],
+     "style": "cta"
+    }
+   }
+  ]
+ },
+ "r02": {
+  "scenes": [
+   {
+    "n": 1,
+    "narration": "Avaliado em cento e sessenta mil. <break time=\"0.35s\"/> Lance de oitenta e quatro mil. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "a conta que o anúncio não mostra",
+     "lines": [
+      "Avaliado: R$ 160 mil.",
+      "Lance: R$ 84 mil."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 2,
+    "narration": "O anúncio para aí. <break time=\"0.35s\"/> O meu simulador não. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "O anúncio para aí.",
+      "O simulador não."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 3,
+    "narration": "Comissão do leiloeiro, cinco por cento. <break time=\"0.35s\"/> ITBI, que eu simulo sobre o valor venal por prudência. <break time=\"0.35s\"/> Cartório. <break time=\"0.35s\"/> Advogado. <break time=\"0.35s\"/> E a desocupação, que muita gente renega nos leilões extrajudiciais. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "o que entra na conta",
+     "lines": [
+      "Leiloeiro 5%",
+      "ITBI + cartório",
+      "Advogado",
+      "Desocupação"
+     ],
+     "style": "list"
+    }
+   },
+   {
+    "n": 4,
+    "narration": "Mais os meses de IPTU e condomínio, até a chave ficar na minha mão. <break time=\"0.35s\"/> Isso também é preço. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Cada mês até a chave",
+      "também é preço."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 5,
+    "narration": "Nesse exemplo ainda sobra margem. <break time=\"0.35s\"/> Mas menor do que o anúncio promete. <break time=\"0.35s\"/> É ela que define o meu lance máximo. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Sobra margem.",
+      "Menor do que o anúncio promete."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 6,
+    "narration": "O simulador que faz essa conta inteira é gratuito. <break time=\"0.35s\"/> Comenta SIMULADOR que eu te mando o link. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Comenta SIMULADOR",
+      "que eu mando o link."
+     ],
+     "style": "cta"
+    }
+   }
+  ]
+ },
+ "r03": {
+  "scenes": [
+   {
+    "n": 1,
+    "narration": "Quando vou desocupar um imóvel que arrematei, eu ofereço um valor de auxílio pra pessoa conseguir se mudar. <break time=\"0.35s\"/> Em geral, entre cinco e dez mil reais. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "você concorda?",
+     "lines": [
+      "Eu pago pra pessoa sair.",
+      "E não é caridade."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 2,
+    "narration": "Tem gente que acha isso errado. <break time=\"0.35s\"/> Pra mim é só fazer a conta fechar. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Tem gente que acha errado.",
+      "Eu chamo de matemática."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 3,
+    "narration": "O acordo sai entre cinco e dez mil, e costuma resolver em trinta a noventa dias. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "caminho A: acordo",
+     "lines": [
+      "R$ 5 a 10 mil",
+      "30 a 90 dias"
+     ],
+     "style": "list"
+    }
+   },
+   {
+    "n": 4,
+    "narration": "A via judicial custa de quinze a vinte e cinco mil e leva de quatro a doze meses pra conseguir a desocupação. <break time=\"0.35s\"/> Fora o imóvel parado, sem vender, comendo IPTU e condomínio. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "caminho B: justiça",
+     "lines": [
+      "R$ 15 a 25 mil",
+      "4 a 12 meses",
+      "imóvel parado"
+     ],
+     "style": "list"
+    }
+   },
+   {
+    "n": 5,
+    "narration": "Eu faço as duas coisas ao mesmo tempo. <break time=\"0.35s\"/> Proponho o acordo e protocolo a imissão de posse. <break time=\"0.35s\"/> A taxa de ocupação de um por cento ao mês faz a conversa andar. <break time=\"0.35s\"/> Se um caminho trava, o outro já está rodando, e eu perco menos tempo. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Acordo na mesa.",
+      "Processo no protocolo."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 6,
+    "narration": "Você faria o acordo, ou iria direto pra justiça? <break time=\"0.35s\"/> Me conta nos comentários. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Acordo ou justiça?",
+      "Comenta."
+     ],
+     "style": "cta"
+    }
+   }
+  ]
+ },
+ "r04": {
+  "scenes": [
+   {
+    "n": 1,
+    "narration": "A lei dizia sessenta dias. <break time=\"0.35s\"/> Eu levei onze meses pra entrar no imóvel que paguei. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "história real",
+     "lines": [
+      "A lei dizia 60 dias.",
+      "Levei 11 meses."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 2,
+    "narration": "Arrematei, paguei à vista, recebi o auto de arrematação. <break time=\"0.35s\"/> No papel, o imóvel já era meu. <break time=\"0.35s\"/> Na vida real, não era. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Em tese, era meu.",
+      "Na prática, não."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 3,
+    "narration": "Aí começou. <break time=\"0.35s\"/> Notificação contestada. <break time=\"0.35s\"/> Alegação de bem de família. <break time=\"0.35s\"/> Agravo em cima de agravo. <break time=\"0.35s\"/> Tudo dentro da lei. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "o que veio depois",
+     "lines": [
+      "Notificação contestada",
+      "Bem de família alegado",
+      "Agravos em série"
+     ],
+     "style": "list"
+    }
+   },
+   {
+    "n": 4,
+    "narration": "Onze meses de IPTU, condomínio, e dinheiro travado num imóvel que eu não podia nem visitar. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "11 meses pagando",
+      "um imóvel sem chave."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 5,
+    "narration": "Quando a chave veio, o negócio ainda fechou no azul. <break time=\"0.35s\"/> Porque o prazo realista já estava na conta. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Fechou no azul.",
+      "O prazo estava na conta."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 6,
+    "narration": "Quem simula só o cenário otimista arremata no vermelho sem perceber. <break time=\"0.35s\"/> Comenta CENÁRIOS que eu te mando a ferramenta pra você simular. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Comenta CENÁRIOS",
+      "que eu te mando a ferramenta."
+     ],
+     "style": "cta"
+    }
+   }
+  ]
+ },
+ "r06": {
+  "scenes": [
+   {
+    "n": 1,
+    "narration": "Você compraria um imóvel sem ler o contrato? <break time=\"0.35s\"/> Então por que dar lance sem ler o edital a fundo, cada detalhe? <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "pergunta séria",
+     "lines": [
+      "Compraria um imóvel",
+      "sem ler o contrato?"
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 2,
+    "narration": "Trinta segundos de edital já dizem em que mundo você está. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "30 segundos de edital",
+      "já te situam."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 3,
+    "narration": "Apareceu Vara Cível, exequente, executado? <break time=\"0.35s\"/> Leilão judicial. <break time=\"0.35s\"/> Quem manda é o juiz. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "sinal 1",
+     "lines": [
+      "Vara Cível, exequente…",
+      "= leilão judicial"
+     ],
+     "style": "list"
+    }
+   },
+   {
+    "n": 4,
+    "narration": "Apareceu Lei nove mil quinhentos e quatorze, credor fiduciário? <break time=\"0.35s\"/> Extrajudicial. <break time=\"0.35s\"/> O banco leva a leilão sem juiz. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "sinal 2",
+     "lines": [
+      "Lei 9.514, fiduciário…",
+      "= extrajudicial"
+     ],
+     "style": "list"
+    }
+   },
+   {
+    "n": 5,
+    "narration": "Muda quem dá a ordem. <break time=\"0.35s\"/> Muda a forma de desocupar, e muda a forma de pagar. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Muda quem manda.",
+      "Muda tudo."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 6,
+    "narration": "Comenta EDITAL que eu te respondo com os itens que eu confiro em todo edital. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Comenta EDITAL",
+      "que eu mando o checklist."
+     ],
+     "style": "cta"
+    }
+   }
+  ]
+ },
+ "r07": {
+  "scenes": [
+   {
+    "n": 1,
+    "narration": "Tem gente que jura que bem de família não vai a leilão. <break time=\"0.35s\"/> Vai sim. <break time=\"0.35s\"/> E é aí que muita gente se surpreende. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "o mito que custa caro",
+     "lines": [
+      "'Não vai a leilão'?",
+      "Vai sim."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 2,
+    "narration": "Bem de família é o imóvel onde a pessoa mora. <break time=\"0.35s\"/> A lei protege ele de vários tipos de dívida. <break time=\"0.35s\"/> Mas não de todas. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Protegido de vários tipos.",
+      "Não de todos."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 3,
+    "narration": "Tem exceção que derruba a proteção. <break time=\"0.35s\"/> Dívida do próprio imóvel, pensão alimentícia, ou o imóvel dado como garantia num empréstimo ou no próprio financiamento. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "as exceções",
+     "lines": [
+      "Dívida do próprio imóvel",
+      "Pensão alimentícia",
+      "Garantia / financiamento"
+     ],
+     "style": "list"
+    }
+   },
+   {
+    "n": 4,
+    "narration": "Antes do lance, eu vejo na matrícula e no edital qual é a origem da dívida. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "A origem da dívida",
+      "muda tudo."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 5,
+    "narration": "Se a dívida não for das exceções, a desocupação pode virar uma novela judicial. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Fora das exceções?",
+      "Novela judicial."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 6,
+    "narration": "Eu listei as exceções que valem a pena conferir antes de dar lance. <break time=\"0.35s\"/> Comenta BEM DE FAMÍLIA que eu te mando. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Comenta BEM DE FAMÍLIA",
+      "que eu te mando."
+     ],
+     "style": "cta"
+    }
+   }
+  ]
+ },
+ "r08": {
+  "scenes": [
+   {
+    "n": 1,
+    "narration": "Em vinte minutos eu descubro se um imóvel tem processo trabalhista escondido. <break time=\"0.35s\"/> De graça. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "20 minutos, custo zero",
+     "lines": [
+      "20 minutos.",
+      "Custo zero."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 2,
+    "narration": "Dívida trabalhista do antigo dono pode acabar sobrando pra você depois do leilão, em alguns casos. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "A dívida do dono",
+      "pode ficar com você."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 3,
+    "narration": "Eu pego o nome do antigo dono e pesquiso nos tribunais do trabalho, que são públicos. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "onde eu olho",
+     "lines": [
+      "Nome do antigo dono",
+      "nos tribunais do trabalho."
+     ],
+     "style": "list"
+    }
+   },
+   {
+    "n": 4,
+    "narration": "Se aparece execução, eu leio o edital com lupa antes de qualquer lance. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Achou execução?",
+      "Edital com lupa."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 5,
+    "narration": "Na maioria das vezes, está tudo certo. <break time=\"0.35s\"/> Mas esses vinte minutos separam susto de segurança. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "20 minutos separam",
+      "susto de segurança."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 6,
+    "narration": "Eu montei o passo a passo dessa busca. <break time=\"0.35s\"/> Comenta TRABALHISTA que eu te mando. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Comenta TRABALHISTA",
+      "que eu te mando."
+     ],
+     "style": "cta"
+    }
+   }
+  ]
+ },
+ "r09": {
+  "scenes": [
+   {
+    "n": 1,
+    "narration": "Dá pra parcelar um imóvel de leilão em até trinta vezes, sem banco nenhum no meio. <break time=\"0.35s\"/> E não é pegadinha. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "sem banco, sem crédito",
+     "lines": [
+      "Leilão em até 30x.",
+      "E não é pegadinha."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 2,
+    "narration": "Artigo oitocentos e noventa e cinco do CPC. <break time=\"0.35s\"/> Vinte e cinco por cento de entrada, saldo em até trinta meses, com correção, sem juros bancários. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "CPC art. 895",
+     "lines": [
+      "25% de entrada",
+      "Até 30 meses",
+      "Sem análise de crédito"
+     ],
+     "style": "list"
+    }
+   },
+   {
+    "n": 3,
+    "narration": "E sem análise de crédito. <break time=\"0.35s\"/> Porque é regra do processo, não regra de banco. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Regra processual.",
+      "Não bancária."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 4,
+    "narration": "As regras duras: só vale no leilão judicial. <break time=\"0.35s\"/> Proposta à vista, mesmo menor, tem prioridade sobre a sua. <break time=\"0.35s\"/> E parcela atrasada pode custar o imóvel e multa. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "as 3 regras duras",
+     "lines": [
+      "Só no judicial",
+      "À vista tem prioridade",
+      "Atraso = imóvel + multa"
+     ],
+     "style": "list"
+    }
+   },
+   {
+    "n": 5,
+    "narration": "Porta de entrada real. <break time=\"0.35s\"/> Com regras de gente grande. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Porta de entrada real.",
+      "Regras de gente grande."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 6,
+    "narration": "Eu reuni as regras completas da proposta parcelada num resumo. <break time=\"0.35s\"/> Comenta oito-nove-cinco que eu te mando. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Comenta 895",
+      "que eu te mando as regras."
+     ],
+     "style": "cta"
+    }
+   }
+  ]
+ },
+ "r10": {
+  "scenes": [
+   {
+    "n": 1,
+    "narration": "Dei o lance certo, mas o lucro veio menor do que eu previa. <break time=\"0.35s\"/> Um dos culpados foi o ITBI. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "a conta que vem depois",
+     "lines": [
+      "Lance certo,",
+      "lucro menor."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 2,
+    "narration": "ITBI é o imposto pra transferir o imóvel pro seu nome. <break time=\"0.35s\"/> Sem ele, você não registra. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Sem ITBI,",
+      "não tem registro."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 3,
+    "narration": "O detalhe: muita prefeitura cobra sobre o valor venal, não sobre o seu lance. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "onde a conta vira",
+     "lines": [
+      "Cobram sobre o valor venal,",
+      "não sobre o seu lance."
+     ],
+     "style": "list"
+    }
+   },
+   {
+    "n": 4,
+    "narration": "Se o lance foi baixo e o valor venal é alto, o imposto vem maior do que você imaginava. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Lance baixo, venal alto",
+      "= imposto maior."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 5,
+    "narration": "Por isso eu simulo o ITBI sobre o valor venal antes. <break time=\"0.35s\"/> Por prudência. <break time=\"0.35s\"/> Se sobra margem assim, sobra de verdade. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Eu simulo antes.",
+      "Por prudência."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 6,
+    "narration": "O simulador já calcula isso pra você. <break time=\"0.35s\"/> Comenta ITBI que eu te mando o link. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Comenta ITBI",
+      "que eu mando o link."
+     ],
+     "style": "cta"
+    }
+   }
+  ]
+ },
+ "conta-engana": {
+  "scenes": [
+   {
+    "n": 1,
+    "narration": "Esse leilão anunciava trinta e seis por cento de desconto. <break time=\"0.35s\"/> Na conta real, virou dezessete. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "o desconto que encolhe",
+     "lines": [
+      "Anunciado: 36%.",
+      "Real: 17%."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 2,
+    "narration": "O anúncio compara com a avaliação. <break time=\"0.35s\"/> Eu comparo com o preço real do bairro. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "O anúncio compara",
+      "com a avaliação."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 3,
+    "narration": "Aí entram os custos que quase ninguém soma: leiloeiro, ITBI, cartório, advogado. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "o que ninguém soma",
+     "lines": [
+      "Leiloeiro",
+      "ITBI + cartório",
+      "Advogado",
+      "Desocupação"
+     ],
+     "style": "list"
+    }
+   },
+   {
+    "n": 4,
+    "narration": "Mais IPTU e condomínio atrasados, e a reforma pra deixar o imóvel pronto pra vender. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Atrasados + reforma",
+      "também entram."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 5,
+    "narration": "Somando tudo, aquele desconto de trinta e seis por cento virou dezessete na vida real. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "36% no anúncio.",
+      "17% na conta."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 6,
+    "narration": "Eu tenho um simulador que faz essa conta inteira. <break time=\"0.35s\"/> Comenta CONTA que eu te mando o link. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Comenta CONTA",
+      "que eu mando o link."
+     ],
+     "style": "cta"
+    }
+   }
+  ]
+ },
+ "t16": {
+  "scenes": [
+   {
+    "n": 1,
+    "narration": "Um imóvel cinquenta mil mais barato me deu menos lucro que um mais caro. <break time=\"0.35s\"/> Por causa da liquidez. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "o erro que eu cometi",
+     "lines": [
+      "Mais barato",
+      "deu menos lucro."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 2,
+    "narration": "Liquidez é a rapidez de transformar o imóvel em dinheiro. <break time=\"0.35s\"/> E quase ninguém olha isso antes do lance. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Liquidez =",
+      "rapidez de revender."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 3,
+    "narration": "Um de trezentos mil que vende em dois meses costuma deixar mais que um de trezentos e cinquenta mil que encalha dezoito meses. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": "a conta do tempo",
+     "lines": [
+      "Vende em 2 meses",
+      "ganha de encalhar 18."
+     ],
+     "style": "list"
+    }
+   },
+   {
+    "n": 4,
+    "narration": "O encalhado vai comendo IPTU, condomínio, e o custo do dinheiro parado. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Encalhado come",
+      "IPTU e tempo."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 5,
+    "narration": "E liquidez não se mede pela internet. <break time=\"0.35s\"/> Depende da região, e de quem compra ali. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Não se mede online.",
+      "Depende da região."
+     ],
+     "style": "cover"
+    }
+   },
+   {
+    "n": 6,
+    "narration": "Eu simulo o efeito da liquidez antes de dar lance. <break time=\"0.35s\"/> Comenta LIQUIDEZ que eu te mando o simulador. <break time=\"0.45s\"/>",
+    "overlay": {
+     "eyebrow": null,
+     "lines": [
+      "Comenta LIQUIDEZ",
+      "que eu te mando."
+     ],
+     "style": "cta"
+    }
+   }
+  ]
+ }
+}
